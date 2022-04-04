@@ -1,17 +1,6 @@
-# moviefy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Moviefy
+
+A Movie review app with beatiful UI and poster carousel made in Flutter.
+
+![277174964_495782612182328_8959393809388139605_n](https://user-images.githubusercontent.com/66194182/161493109-3bc6ed5e-69fd-4c7b-86bf-ce1a1ec372df.jpg)
+![276994574_988816825102057_8396885938430061293_n](https://user-images.githubusercontent.com/66194182/161493125-c6519c46-0364-477a-8511-1425d050676c.jpg)
